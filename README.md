@@ -82,7 +82,7 @@ Do not upload your real webhook URL to GitHub.
 /opt/tubestatus-discord/venv/bin/python /opt/tubestatus-discord/tube-discord.py
 ```
 
-## Automatic Daily Updates at 6AM
+## Add Automatic Daily Updates at 6AM or anytime just change the 06 to something elese
 
 Open cron:
 
