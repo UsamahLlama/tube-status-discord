@@ -1,4 +1,4 @@
-# Tube Status Discord
+# TFL Tube Status Discord
 
 A simple Python script that sends live London Tube, Overground, DLR, Elizabeth Line and Tram status updates to a Discord channel using a Discord webhook and TfL live data.
 
